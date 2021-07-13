@@ -1,0 +1,17 @@
+.meals-list-item {
+  display: flex;
+  padding: 20px;
+}
+
+.meals-list-item img {
+  max-width: 128px;
+  border-radius: 4px;
+}
+
+.content {
+  padding: 5px 20px;
+}
+
+.price {
+  color: #4d1601;
+}
